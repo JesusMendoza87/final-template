@@ -1,0 +1,9 @@
+#title-image{
+    background-image: url("https://images.pexels.com/photos/1955134/pexels-photo-1955134.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-position: center;
+    height: 500px;
+    width: 900px;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0 auto;
+}

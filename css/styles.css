@@ -1,0 +1,30 @@
+.text-color{
+    color:beige;
+}
+.green_text{
+    color:rgba(52, 231, 7, 0.792);
+}
+.navbar_img{
+    width: 1000px;
+    height: 700px;
+}
+.carousel-image{ 
+    width: 120vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+body{
+    background-color: rgb(50, 85, 63);
+}
+.card_background_color{
+    background-color: rgba(52, 231, 7, 0.792);
+}
+.par_indent{
+    text-indent: 50px;
+}
+.disclaimer{
+    font-weight: bold;
+    color: red;
+}
