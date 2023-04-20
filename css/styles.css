@@ -3,7 +3,7 @@
 }
 .types_Text{
     color:rgba(231, 115, 7, 0.792);
-    font-size: 10rem;
+    font-size: 6rem;
 }
 .navbar_img{
     width: 1000px;
@@ -16,6 +16,10 @@
     background-position: center;
 
 }
+
+#instagram_icon{
+    background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+}
 body{
     background-color: rgb(50, 85, 63);
 }
@@ -23,13 +27,21 @@ body{
 h1{
     color: black;
 }
-.card_background_color{
-    background-color: rgba(52, 231, 7, 0.792);
-}
 .par_indent{
     text-indent: 50px;
+}
+
+.followUs_color{
+    color:#944111
+}
+.followUs_Container{
+    background-color: black;
 }
 .disclaimer{
     font-weight: bold;
     color: red;
+}
+.shadow_effect{
+    color:rgba(231, 115, 7, 0.792);
+    text-shadow: 2px 2px 3px;
 }
