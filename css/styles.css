@@ -1,8 +1,9 @@
 .text-color{
     color:beige;
 }
-.green_text{
-    color:rgba(52, 231, 7, 0.792);
+.types_Text{
+    color:rgba(231, 115, 7, 0.792);
+    font-size: 10rem;
 }
 .navbar_img{
     width: 1000px;
@@ -17,6 +18,10 @@
 }
 body{
     background-color: rgb(50, 85, 63);
+}
+
+h1{
+    color: black;
 }
 .card_background_color{
     background-color: rgba(52, 231, 7, 0.792);
